@@ -15,9 +15,10 @@
                 Sadrak Araújo (RA: 25356591-2)      
     
 Data: 8 de outubro de 2025
-Descritivo:               
+Descritivo: Dado o array [10, 2, 5, 8, 1], ordene-o em ordem crescente usando sort().         
 ***************************/
 $valores = [10, 2, 5, 8, 1];
 sort($valores);
 print_r($valores);
+
 ?>
