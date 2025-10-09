@@ -15,7 +15,7 @@
                 Sadrak Araújo (RA: 25356591-2)      
     
 Data: 8 de outubro de 2025
-Descritivo:               
+Descritivo:  Crie um array de frutas. Escreva um código que verifique se a fruta "Maçã" existe no array.             
 ***************************/
 $frutas = ["Banana", "Laranja", "Maçã", "Uva"];
 
@@ -24,4 +24,5 @@ if (in_array("Maçã", $frutas)) {
 } else {
     echo "A fruta Maçã não está no array.";
 }
+
 ?>
