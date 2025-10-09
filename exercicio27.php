@@ -15,7 +15,7 @@
                 Sadrak Araújo (RA: 25356591-2)      
     
 Data: 8 de outubro de 2025
-Descritivo:               
+Descritivo: : Crie um array com as notas de um aluno em 4 disciplinas e calcule a média.              
 ***************************/
 $notas = [
     "Matemática" => 7.5,
@@ -26,4 +26,5 @@ $notas = [
 
 $media = array_sum($notas) / count($notas);
 echo "Média do aluno: $media";
+
 ?>
