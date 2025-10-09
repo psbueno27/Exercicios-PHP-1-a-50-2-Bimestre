@@ -15,10 +15,11 @@
                 Sadrak Araújo (RA: 25356591-2)      
     
 Data: 8 de outubro de 2025
-Descritivo:               
+Descritivo: Crie um array de números e use a função count() para mostrar quantos elementos ele possui.       
 ***************************/
 $numeros = [1, 2, 3, 4, 5, 6];
 $total = count($numeros);
 echo "O array tem $total elementos.";
 ?>
+
 
