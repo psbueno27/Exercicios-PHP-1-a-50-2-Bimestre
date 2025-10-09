@@ -15,7 +15,7 @@
                 Sadrak Araújo (RA: 25356591-2)      
     
 Data: 8 de outubro de 2025
-Descritivo:               
+Descritivo: Crie uma matriz 3x3 (array de arrays) e preencha-a com números. Imprima o elemento da segunda linha e terceira coluna.              
 ***************************/
 $matriz = [
     [1, 2, 3],
@@ -24,4 +24,5 @@ $matriz = [
 ];
 
 echo "Elemento da segunda linha e terceira coluna: " . $matriz[1][2];
+
 ?>
