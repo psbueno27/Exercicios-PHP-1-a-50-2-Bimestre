@@ -15,7 +15,7 @@
                 Sadrak Araújo (RA: 25356591-2)      
     
 Data: 8 de outubro de 2025
-Descritivo:               
+Descritivo: Dado um array de números [12, 5, 23, 18, 9, 45], imprima apenas os números maiores que 20.             
 ***************************/
 $numeros = [12, 5, 23, 18, 9, 45];
 
@@ -25,3 +25,4 @@ foreach ($numeros as $num) {
     }
 }
 ?>
+
