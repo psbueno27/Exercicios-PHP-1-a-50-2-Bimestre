@@ -15,11 +15,12 @@
                 Sadrak Araújo (RA: 25356591-2)      
     
 Data: 8 de outubro de 2025
-Descritivo: Usando o array de números do exercício 17, calcule e imprima a soma de todos os números com foreach.     
+Descritivo: Usando o array de cidades do exercício 16, imprima cada cidade em uma nova linha usando foreach.     
 *******************************************************************************/
 
 $cidades = ["Vancouver", "Veneza", "Dublin", "Roma", "Londres"];
 foreach ($cidades as $cidade) {
     echo $cidade . "\n";
 }
+
 ?>
