@@ -15,7 +15,7 @@
                 Pedro Bueno (RA: 25181992-2)
                 Sadrak Araújo (RA: 25356591-2)      
     
-Data: 8 de outubro de 2025
+Data: 15 de outubro de 2025
 Descritivo: Função: Crie uma função chamada somar que receba dois números e retorne a soma deles.
 ***************************/
 
