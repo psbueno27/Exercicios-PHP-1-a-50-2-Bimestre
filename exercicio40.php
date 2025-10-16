@@ -15,7 +15,7 @@
                 Pedro Bueno (RA: 25181992-2)
                 Sadrak Araújo (RA: 25356591-2)      
     
-Data: 8 de outubro de 2025
+Data: 15 de outubro de 2025
 Descritivo: Procedimento: Faça um procedimento que receba um array associativo de um carro (marca, modelo, ano) e imprima seus dados.
 ***************************/
 
