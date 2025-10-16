@@ -15,7 +15,7 @@
                 Pedro Bueno (RA: 25181992-2)
                 Sadrak Araújo (RA: 25356591-2)      
     
-Data: 8 de outubro de 2025
+Data: 15 de outubro de 2025
 Descritivo: Procedimento com Múltiplos Parâmetros: Crie um procedimento mostrarDados que receba nome, idade e cidade e os imprima de forma organizada
 ***************************/
 
@@ -28,4 +28,5 @@ function mostrardados($nome, $idade, $cidade) {
 mostrardados("SADRAK", 25, "CURITIBA-PR");
 
 ?>
+
 
