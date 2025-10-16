@@ -28,4 +28,5 @@ while($tentativa!=$numero_correto){
         echo "Tentativa correta!";
     }
 }
+
 ?>
