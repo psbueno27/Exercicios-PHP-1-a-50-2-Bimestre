@@ -14,8 +14,8 @@
                 Pedro Bueno (RA: 25181992-2)
                 Sadrak Araújo (RA: 25356591-2)      
     
-Data: 8 de outubro de 2025
-Descritivo: .Função com Array: Crie uma função obterPrimeiroElemento que receba um array e retorne seu primeiro elemento.             
+Data: 19 de outubro de 2025
+Descritivo:  Crie uma função obterPrimeiroElemento que receba um array e retorne seu primeiro elemento.             
 ***************************/
 function obterPrimeiroElemento($array) {
     if (count($array) > 0) {
