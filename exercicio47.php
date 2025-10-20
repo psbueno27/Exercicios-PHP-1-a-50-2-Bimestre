@@ -14,8 +14,8 @@
                 Pedro Bueno (RA: 25181992-2)
                 Sadrak Araújo (RA: 25356591-2)      
     
-Data: 8 de outubro de 2025
-Descritivo: .Função com String: Crie uma função contarVogais que receba uma string e retorne o número de vogais..             
+Data: 19 de outubro de 2025
+Descritivo: Crie uma função contarVogais que receba uma string e retorne o número de vogais..             
 ***************************/
 function contarVogais($texto) {
     $vogais = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
