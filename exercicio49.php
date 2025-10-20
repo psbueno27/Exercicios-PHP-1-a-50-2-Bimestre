@@ -14,8 +14,8 @@
                 Pedro Bueno (RA: 25181992-2)
                 Sadrak Araújo (RA: 25356591-2)      
     
-Data: 8 de outubro de 2025
-Descritivo: .Função: Faça uma função gerarArrayPares que receba um número n e retorne um array com todos os números pares de 0 até n.          
+Data: 19 de outubro de 2025
+Descritivo: Faça uma função gerarArrayPares que receba um número n e retorne um array com todos os números pares de 0 até n.          
 ***************************/
 function gerarArrayPares($n) {
     $pares = [];
