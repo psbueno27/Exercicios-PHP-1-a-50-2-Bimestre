@@ -14,8 +14,8 @@
                 Pedro Bueno (RA: 25181992-2)
                 Sadrak Araújo (RA: 25356591-2)      
     
-Data: 8 de outubro de 2025
-Descritivo: .Função: Elabore uma função ehPrimo que receba um número e retorne true se ele for primo e false caso contrário.             
+Data: 19 de outubro de 2025
+Descritivo: Elabore uma função ehPrimo que receba um número e retorne true se ele for primo e false caso contrário.             
 ***************************/
 function ehPrimo($numero) {
     if ($numero <= 1) {
