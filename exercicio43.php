@@ -15,7 +15,7 @@
                 Sadrak Araújo (RA: 25356591-2)      
     
 Data: 19 de outubro de 2025
-Descritivo: Escreva um programa que use for para imprimir os números de 1 a 10.             
+Descritivo: Elabore uma função converterParaMaiusculas que receba uma string e a retorne em letras maiúsculas.            
 ***************************/
 $string = "Bem Vindo ao PHP" ;
 $string = strtoupper($string);
