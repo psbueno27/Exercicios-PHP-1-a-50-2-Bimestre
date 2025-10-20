@@ -14,8 +14,8 @@
                 Pedro Bueno (RA: 25181992-2)
                 Sadrak Araújo (RA: 25356591-2)      
     
-Data: 8 de outubro de 2025
-Descritivo: .Função: Escreva uma função fatorial que receba um número e retorne seu fatorial             
+Data: 19 de outubro de 2025
+Descritivo: Escreva uma função fatorial que receba um número e retorne seu fatorial             
 ***************************/
 function fatorial($numero) {
     $resultado = 1;
