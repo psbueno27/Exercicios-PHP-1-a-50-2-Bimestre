@@ -14,7 +14,7 @@
                 Pedro Bueno (RA: 25181992-2)
                 Sadrak Araújo (RA: 25356591-2)      
     
-Data: 8 de outubro de 2025
+Data: 19 de outubro de 2025
 Descritivo: Escreva um programa que use for para imprimir os números de 1 a 10.             
 ***************************/
 $string = "Bem Vindo ao PHP" ;
