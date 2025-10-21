@@ -19,8 +19,9 @@ Descritivo: Crie um programa para encontrar e imprimir todos os números primos 
 *******************************************************************************/  
 
 for ($i=1; $i <= 50; $i++) {
-    if ($i > 1 && $i % 2 != 0 && $i % 3 != 0 && $i % 5 != 0 || $i == 2 || $i == 3 || $i == 5) {
+    if ($i > 1 && $i % 2 != 0 && $i % 3 != 0 && $i % 5 != 0 $i % 7 != 0 || $i == 2 || $i == 3 || $i == 5) {
         echo "$i é primo\n";
     }
 }
 ?>
+
